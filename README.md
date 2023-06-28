@@ -18,4 +18,5 @@
     5. Create Home component
         1. Add ts
         2. Add html
+         1. Install Rattingstar (npm install ng-starrating --force)
         3. Add css
