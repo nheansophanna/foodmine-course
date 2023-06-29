@@ -1,4 +1,5 @@
 import { Food } from "./app/shared/models/Food";
+import { Tag } from "./app/shared/models/Tag";
 
 export const sample_food:Food[]=[
     {
@@ -45,4 +46,14 @@ export const sample_food:Food[]=[
         origins:['India','Asia'],
         cookTime:"30-50",
     },
+]
+
+export const sample_tags:Tag[]=[
+    {name:'All',count:4},
+    {name:'Pizza',count:2},
+    {name:'Tacos',count:1},
+    {name:'Soup',count:1},
+    {name:'FastFood',count:3},
+    {name:'SlowFood',count:1},
+    {name:'Lunch',count:3},
 ]
