@@ -20,3 +20,13 @@
         2. Add html
          1. Install Rattingstar (npm install ng-starrating --force)
         3. Add css
+6. Search
+    1. Add method to Food service
+    2. Add search route
+    3. Show search reusult in Home component
+        1. tsconfig.json => change to => "noPropertyAccessFromIndexSignature": false,
+    4. Generate search component
+        1. Add to Home component
+        2. Add ts
+        3. Add html
+        4. Add css
