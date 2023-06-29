@@ -17,7 +17,7 @@ export const sample_food:Food[]=[
         id:"2",
         name:"Tacos",
         price:2,
-        tags:['FastFood','Burger','Lunch'],
+        tags:['FastFood','Tacos','Lunch'],
         favorite:false,
         stars:5,
         imgUrl:"assets/food-2.jpg",
